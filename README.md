@@ -27,7 +27,7 @@ Each NFT acts as a digital collectible that stores travel-related metadata, maki
 ---
 
 ## 🔗 Deployed Smart Contract Link
-https://stellar.expert/explorer/public/account/CAWKC7G27TS4KIFVSUOUYERICYTODCJBBOIR4BJP2N4AGTQOIKCJKWXX
+https://stellar.expert/explorer/testnet/contract/CAWKC7G27TS4KIFVSUOUYERICYTODCJBBOIR4BJP2N4AGTQOIKCJKWXX
 <img width="1920" height="1080" alt="Screenshot 2026-04-13 134316" src="https://github.com/user-attachments/assets/1df83209-4470-48d8-a7c2-0215ece88318" />
 
 ---
